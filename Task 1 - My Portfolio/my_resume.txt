@@ -1,0 +1,38 @@
+
+Career Objective
+Motivated and detail-oriented Information Technology graduate from KCG College, seeking a position as a software developer to utilize technical skills and passion for problem-solving in a dynamic work environment.
+Education
+B.Tech in Information Technology KCG College of Technology, Chennai Graduation Year: 2025
+CGPA: 8.2/10
+
+Technical Skills
+- Programming Languages: Python, C++, Java
+- Web Technologies: HTML, CSS, JavaScript
+- Tools & Platforms: Git, GitHub, VS Code, Windows
+- Database: MySQL, SQLite
+
+
+
+
+2. E-commerce Website
+  Created a fully responsive e-commerce website using HTML, CSS, and JavaScript for frontend; PHP and MySQL for backend.
+Internship Experience
+Web Development Intern at CodeSoft (Jan 2025 - Mar 2025)
+- Built responsive web pages for client websites
+- Learned practical implementation of frontend and backend integration
+
+Certifications
+-NPTEL certification on Large Applications
+
+
+- Web Development Bootcamp - Udemy
+
+Extra-Curricular Activities
+- Member, College Coding Club
+- Volunteered at TechFest 2024 
+
+Languages Known
+- English (Fluent)
+- Tamil (Native)
+
+
