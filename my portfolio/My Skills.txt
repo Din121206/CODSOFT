@@ -1,6 +1,0 @@
-My Skills
-
-- Programming Languages: Python, C++, Java
-- Web Technologies: HTML, CSS, JavaScript
-- Tools & Platforms: Git, GitHub, VS Code, Windows
-- Database: MySQL, SQLite
