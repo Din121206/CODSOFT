@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills | S Dinesh Rathina</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <span class="logo">Online Portfolio</span>
+            <ul>
+                <li><a href="portfolio.html">HOME</a></li>
+                <li><a href="portfolio.html#about">ABOUT ME</a></li>
+                <li><a href="projects.html">PROJECTS</a></li>
+                <li><a class="active" href="skills.html">SKILL</a></li>
+                <li><a href="contact.html">CONTACT INFO</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="skills-main">
+        <section class="skills-section">
+            <h1 class="skills-heading">My Skills</h1>
+            <ul class="skills-list">
+                <li>Currently pursuing B.Tech in Information Technology at KCG College of Technology</li>
+                <li>Programming Languages: Python, C++, Java</li>
+                <li>Web Technologies: HTML, CSS, JavaScript</li>
+                <li>Tools & Platforms: Git, GitHub, VS Code, Windows, Linux</li>
+                <li>Database: MySQL, SQLite</li>
+                <li>Quick learner, passionate about technology, and always eager to take on new challenges</li>
+            </ul>
+        </section>
+    </main>
+    <footer class="footer">
+        © 2024 S Dinesh Rathina. All rights reserved.
+    </footer>
+    <script>
+    // Animate skills list items on load
+    document.addEventListener('DOMContentLoaded', function() {
+        const items = document.querySelectorAll('.skills-list li');
+        items.forEach((item, i) => {
+            setTimeout(() => {
+                item.classList.add('show');
+            }, 200 * i);
+        });
+    });
+    </script>
+</body>
+</html> 
